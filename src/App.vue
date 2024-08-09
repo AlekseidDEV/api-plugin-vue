@@ -9,6 +9,9 @@ import AboutComp from "@/components/AboutComp.vue";
   <AboutComp/>
 </template>
 
+
+
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
